@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h1>🐥</h1>
+      <h1>💚</h1>
     </td>
     <td>
       <p align="center">
